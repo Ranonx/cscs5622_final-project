@@ -1,0 +1,95 @@
+Location,Gender,Age,Occupation,Type,Heard_of_3DCover,Willingness_Usage,Material_Preference,Easy to disassemble,Sturdy and durable,Aesthetic,Lightweight,Main Issue,Price_Preference
+Guangdong,F,60,Customer Service,BK,Never Heard,Will not buy,Foam Wrapping,4,3,4,4,Not Practical,1000
+Guangxi,M,26-30,Production worker,BK,"Heard, Never Brought",For socializing purpose,Hard Cover,5,5,5,5,Too expensive,300000
+Guangdong,M,31-40,Sales,AK,"Heard, Never Brought",Daily usage,Hard Cover,5,5,5,5,Too expensive,2000
+Beijing,F,18-25,FT-Student,AK,"Heard, Never Brought",Will not buy,Soft Cover,3,5,5,4,Too expensive,1000
+Sichuan,F,18-25,Professionals,AK,"Heard, Never Brought",Daily usage,Hard Cover,1,1,5,4,Visually unappealling (e.g. protruding knee),3000
+Zhejiang,M,31-40,Management,AK,"Heard, Never Brought",Daily usage,Soft Cover,3,4,5,5,Too expensive,2000
+Zhejiang,M,31-40,Sales,Others,"Heard, Never Brought",Will not buy,Soft Cover,2,1,5,1,Not durable,10000
+Anhui,M,31-40,Others,AK,"Heard, Never Brought",Daily usage,Hard Cover,5,5,5,5,Not Practical,500
+Guangdong,F,18-25,Clerical/Admin,AK,"Heard, Never Brought",Daily usage,Soft Cover,4,5,5,5,Not durable,3000
+Jiangsu,F,31-40,Management,AK,"Heard, Never Brought",Daily usage,Hard Cover,5,5,5,5,Too expensive,2000
+Henan,M,31-40,Sales,AK,"Heard, Never Brought",For socializing purpose,Soft Cover,5,5,5,5,Others,2000
+Guangdong,M,26-30,Others,AK,"Heard, Never Brought",Will not buy,Foam Wrapping,5,5,4,2,Immature Tech,1000
+Guangxi,F,18-25,Others,AK,Never Heard,Daily usage,Foam Wrapping,5,5,5,5,Others,3000
+Jiangxi,M,18-25,Professionals,AK,"Heard, Never Brought",Will not buy,Hard Cover,5,5,5,5,Too expensive,5000
+Shanxi,M,51-60,Others,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Foreign (Canada),F,0-18,FT-Student,AK,"Heard, Never Brought",Daily usage,Hard Cover,5,5,5,5,Too expensive,3000
+Shandong,F,41-50,Others,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Guangdong,F,18-25,Sales,AK,"Heard, Never Brought",Daily usage,Soft Cover,5,5,5,5,Too expensive,1000
+Shandong,F,31-40,Others,Others,"Heard, Never Brought",Daily usage,Soft Cover,5,5,5,5,Others,5000
+Anhui,M,31-40,Production worker,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Shandong,M,31-40,Others,AK,"Heard, Never Brought",Will not buy,Foam Wrapping,5,5,5,5,Too expensive,1000
+Jiangsu,M,41-50,Others,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Zhejiang,F,31-40,Administration/Logistics,AK,"Heard, Never Brought",Will not buy,Foam Wrapping,5,5,5,5,Too expensive,800
+Shanxi,M,31-40,Sales,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Guangxi,F,51-60,Sales,BK,"Heard, Never Brought",Others,Hard Cover,5,5,4,5,Others,3000
+Sichuan,M,51-60,FT-Student,AK,Never Heard,Daily usage,Soft Cover,5,5,5,5,Too expensive,1000
+Sichuan,M,51-60,Others,Others,Never Heard,For socializing purpose,Soft Cover,5,5,5,5,Immature Tech,3000
+Henan,M,51-60,Others,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Shandong,M,18-25,Marketing/Public Relations,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Hunan,M,31-40,Production worker,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Henan,M,41-50,Others,AK,"Heard, Never Brought",Daily usage,Hard Cover,5,5,5,5,Too expensive,500
+Shandong,M,41-50,Production worker,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Sichuan,M,41-50,Others,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Shandong,M,41-50,Sales,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Zhejiang,M,31-40,Others,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Henan,M,31-40,Customer Service,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Guizhou,M,26-30,Others,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Zhejiang,M,31-40,Sales,BK,"Heard, Never Brought",For socializing purpose,Soft Cover,5,5,5,5,Too expensive,2500
+Henan,M,26-30,Technical/R&D,AK,"Heard, Never Brought",Will not buy,Soft Cover,3,4,4,4,Not Practical,2000
+Anhui,M,31-40,Others,AK,"Heard, Never Brought",Daily usage,Hard Cover,5,5,5,5,Too expensive,3000
+Henan,M,51-60,Others,AK,Never Heard,Daily usage,Hard Cover,4,4,3,3,Too expensive,900
+Shandong,F,60,Others,BK,Never Heard,Will not buy,Hard Cover,1,1,2,5,Others,1000
+Xinjiang,M,41-50,Others,Double BK,"Heard, Never Brought",Daily usage,Hard Cover,5,5,5,5,Immature Tech,3000
+Fujian,M,31-40,Others,AK,"Heard, Never Brought",Others,Soft Cover,5,5,5,5,Others (dont understand issue),300
+Hubei,M,18-25,FT-Student,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Yunnan,M,41-50,Sales,AK,"Heard, Never Brought",Daily usage,Foam Wrapping,2,3,3,5,Too expensive,300
+Zhejiang,M,51-60,Administration/Logistics,AK,"Heard, Never Brought",Will not buy,Foam Wrapping,5,5,5,5,Too expensive,800
+Shanxi,M,31-40,Others,BK,Never Heard,Daily usage,Soft Cover,5,5,5,5,Too expensive,100
+Jiangsu,M,31-40,Technical/R&D,AK,"Heard, Never Brought",Daily usage,Soft Cover,5,2,5,5,Too expensive,800
+Inner Mongolia,M,31-40,HR,AK,"Heard, Never Brought",Daily usage,Foam Wrapping,3,4,3,3,Too expensive,500
+Xinjiang,M,26-30,Others,AK,"Heard, Never Brought",Daily usage,Soft Cover,4,4,4,4,Too expensive,500
+Guizhou,M,31-40,Technical/R&D,AK,"Heard, Never Brought",Daily usage,Soft Cover,1,5,5,3,Visually unappealling (e.g. protruding knee),1000
+Shandong,M,26-30,Technical/R&D,AK,"Heard, Never Brought",Daily usage,Hard Cover,0,3,5,4,Too expensive,3000
+Guangdong,F,18-25,Technical/R&D,AK,"Heard, Never Brought",Daily usage,Soft Cover,5,5,5,5,Not Practical,2000
+Zhejiang,M,31-40,Technical/R&D,AK,Brought,Daily usage,Soft Cover,5,3,5,5,Not easy to dissemble,10000
+Shanxi,M,41-50,Others,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Guangdong,M,18-25,Production worker,AK,"Heard, Never Brought",For socializing purpose,Hard Cover,2,3,4,3,Too expensive,3000
+Hunan,M,18-25,Others,AK,"Heard, Never Brought",For socializing purpose,Hard Cover,5,5,5,5,Immature Tech,5000
+Zhejiang,M,31-40,Professionals,BK,"Heard, Never Brought",Others,Soft Cover,5,5,5,5,Others,10000
+Jiangxi,M,31-40,Professionals,AK,"Heard, Never Brought",Daily usage,Soft Cover,3,3,5,2,Too expensive,2000
+Zhejiang,M,31-40,Technical/R&D,AK,"Heard, Never Brought",Daily usage,Soft Cover,5,5,5,5,Not durable,2000
+Zhejiang,F,51-60,Administration/Logistics,BK,Never Heard,Others,Soft Cover,5,5,5,5,Others,15000
+Shandong,F,26-30,Others,AK,"Heard, Never Brought",Daily usage,Soft Cover,5,5,4,5,Too expensive,500
+Chongqing,F,41-50,Others,AK,"Heard, Never Brought",Others,Soft Cover,5,5,5,5,Not easy to dissemble,1000
+Shanghai,F,31-40,HR,AK,Never Heard,Daily usage,Soft Cover,5,5,5,5,Immature Tech,100000
+Zhejiang,F,18-25,FT-Student,AK,"Heard, Never Brought",Will not buy,Foam Wrapping,5,5,4,5,Visually unappealling (e.g. protruding knee),2000
+Sichuan,F,18-25,Others,AK,Never Heard,Will not buy,Others(No Prosthetic leg),5,3,4,4,Others,1000
+Guangxi,F,31-40,Administration/Logistics,BK,"Heard, Never Brought",Daily usage,Hard Cover,5,5,5,5,Immature Tech,1000
+Zhejiang,M,41-50,Administration/Logistics,BK,"Heard, Never Brought",Daily usage,Soft Cover,3,5,5,2,Immature Tech,1000
+Shandong,M,26-30,Others,AK,"Heard, Never Brought",Will not buy,Hard Cover,5,3,1,3,Too expensive,1000
+Zhejiang,F,31-40,Others,AK,"Heard, Never Brought",Others,Foam Wrapping,4,3,3,4,Visually unappealling (e.g. protruding knee),5000
+Anhui,F,41-50,Others,AK,"Heard, Never Brought",Will not buy,Others,5,4,5,3,Others,100
+Guangdong,M,51-60,Marketing/Public Relations,Double AK,(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped),(Skipped)
+Hebei,M,18-25,Sales,AK,"Heard, Never Brought",For socializing purpose,Soft Cover,5,5,5,5,Visually unappealling (e.g. protruding knee),1500
+Guangdong,F,18-25,Others,BK,"Heard, Never Brought",For socializing purpose,Soft Cover,3,4,4,2,Too expensive,100
+Zhejiang,M,31-40,Sales,AK,"Heard, Never Brought",Will not buy,Soft Cover,5,5,5,5,Others,2000
+Guangdong,F,26-30,Customer Service,Others,"Heard, Never Brought",Will not buy,Foam Wrapping,0,5,5,5,Too expensive,500
+Sichuan,F,26-30,Customer Service,AK,"Heard, Never Brought",For socializing purpose,Soft Cover,5,5,5,5,Too expensive,500
+Zhejiang,M,0-18,FT-Student,AK,"Heard, Never Brought",Will not buy,Others,5,5,0,5,Too expensive,0
+Zhejiang,M,31-40,Others,AK,"Heard, Never Brought",Daily usage,Soft Cover,5,5,5,5,Not Practical,1000
+Chongqing,M,31-40,Others,BK,"Heard, Never Brought",Others,Others,3,2,2,4,Too expensive,500
+Shaanxi,M,18-25,Technical/R&D,BK,"Heard, Never Brought",Will not buy,Soft Cover,4,4,1,4,Material Too Hard,1000
+Guangdong,F,26-30,Others,AK,Brought,Daily usage,Soft Cover,3,5,5,5,Immature Tech,1000
+Hebei,F,31-40,Teacher,AK,Never Heard,For socializing purpose,Soft Cover,5,5,4,5,Too expensive,30000
+Shandong,F,31-40,Others,BK,Never Heard,Daily usage,Foam Wrapping,5,5,5,5,Others (dont understand issue),2000
+Shanxi,M,41-50,Sales,AK,"Heard, Never Brought",Will not buy,Others,5,5,5,5,Not Practical,500
+Guangdong,F,26-30,Marketing/Public Relations,BK,"Heard, Never Brought",Daily usage,Soft Cover,3,4,5,5,Not Practical,1500
+Shaanxi,M,26-30,Marketing/Public Relations,Others,Brought,Daily usage,Soft Cover,4,4,5,5,Not easy to dissemble,3000
+Shandong,M,18-25,Others,AK,"Heard, Never Brought",For socializing purpose,Hard Cover,3,3,5,5,Immature Tech,500
+Chongqing,M,31-40,Production worker,BK,"Heard, Never Brought",Daily usage,Soft Cover,5,5,5,5,Too expensive,500
+Zhejiang,M,41-50,Sales,Others,"Heard, Never Brought",For socializing purpose,Soft Cover,5,5,5,5,Too expensive,200
+Zhejiang,F,26-30,Administration/Logistics,AK,"Heard, Never Brought",Daily usage,Foam Wrapping,5,5,5,5,Too expensive,1000
+Guizhou,M,41-50,Production worker,AK,"Heard, Never Brought",Will not buy,Foam Wrapping,0,0,5,5,Too expensive,100
+Guangdong,M,31-40,Production worker,AK,"Heard, Never Brought",Daily usage,Hard Cover,2,5,2,5,Others,2000
